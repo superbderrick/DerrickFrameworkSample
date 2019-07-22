@@ -1,2 +1,2 @@
 # ARndroid
-it is study project with AR and Android 
+simple project with Unity AR and Android 
